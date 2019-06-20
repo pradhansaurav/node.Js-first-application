@@ -1,0 +1,19 @@
+{
+  "name": "node.js-first-application",
+  "version": "1.0.0",
+  "description": "This is an empty repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradhansaurav/node.Js-first-application.git"
+  },
+  "author": "Saurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradhansaurav/node.Js-first-application/issues"
+  },
+  "homepage": "https://github.com/pradhansaurav/node.Js-first-application#readme"
+}
